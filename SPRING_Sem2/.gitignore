@@ -1,4 +1,0 @@
-spring.datasource.url=jdbc:mysql://localhost:3306/название_базы_данных
-spring.datasource.username=ваше_имя_пользователя
-spring.datasource.password=ваш_пароль
-spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
